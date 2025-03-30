@@ -13,6 +13,7 @@
     "@reduxjs/toolkit": "^2.6.1",
     "client": "file:",
     "dotenv": "^16.4.7",
+    "firebase": "^11.5.0",
     "mongoose": "^8.12.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
